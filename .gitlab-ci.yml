@@ -4,8 +4,8 @@ stages:
 
 build_job:
     stage: build
-    script: echo "Building the app"
+    script: echo "Building the application"
 
 test_job:
     stage: test
-    script: echo "Testing the app"
+    script: echo "Testing the application"
